@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "name":"Gunmetal Full Rim Aviator Eyeglasses",
+        "price":1600,
+        "image":"",
+        "category_id":1
+    },
+    {
+        "id":2,
+        "name":"Blue Block Phone & Computer Glasses",
+        "price":1780,
+        "image":"",
+        "category_id":2
+    },
+    {
+        "id":3,
+        "name":"Titan",
+        "price":1300,
+        "image":"",
+        "category_id":3
+    },
+    {
+        "id":4,
+        "name":"Titan pro",
+        "price":2330,
+        "image":"",
+        "category_id":4
+    }
+]
