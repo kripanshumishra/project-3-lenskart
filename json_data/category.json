@@ -1,22 +1,22 @@
 [
     {
         "id":1,
-        "category":"eye glasses"
+        "category":"Eye glasses"
     },
     {
         "id":2,
-        "category":"computer glasses"
+        "category":"Computer glasses"
     },
     {
         "id":3,
-        "category":"kids glasses"
+        "category":"Kids glasses"
     },
     {
         "id":4,
-        "category":"reading glasses"
+        "category":"Reading glasses"
     },
     {
         "id":5,
-        "category":"contact glasses"
+        "category":"Contact glasses"
     }
 ]
